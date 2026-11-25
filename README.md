@@ -1,5 +1,7 @@
 # Nabd نبض
 
+[![CI](https://github.com/SENESO/nabd/actions/workflows/ci.yml/badge.svg)](https://github.com/SENESO/nabd/actions/workflows/ci.yml)
+
 Your sites' pulse. A self-hosted uptime monitor: point it at your endpoints
 and it probes each one on its own schedule, records every result, and shows
 live status, 24-hour uptime, and latency sparklines on a dashboard that
