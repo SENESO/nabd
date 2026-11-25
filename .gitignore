@@ -1,0 +1,11 @@
+bin/
+obj/
+out/
+data/
+.vs/
+.idea/
+*.user
+node_modules/
+dist/
+[Tt]est[Rr]esults/
+appsettings.Development.json
